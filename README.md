@@ -63,7 +63,7 @@ El proyecto sigue una estructura robusta basada en:
 ### Pasos para Ejecutar
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/gestion-cultivos-python.git
+   git clone https://github.com/SofiaRV03/gestion-cultivos-python.git
    cd gestion-cultivos-python
    ```
 
